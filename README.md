@@ -5,6 +5,7 @@
 ---
 
 ## 1. Project Objective
+
 This project analyzes $371.2 Million in car sales to identify top-performing segments, key market drivers, and regional strengths. The goal was to build a dynamic Power BI dashboard to help the business make data-driven decisions on inventory, marketing, and regional strategy.
 
 ---
@@ -20,10 +21,12 @@ This project analyzes $371.2 Million in car sales to identify top-performing seg
 
 #### Finding 1: Top-Line Performance
 The dashboard tracks **$371.2M in sales** from **13.3K cars sold**, showing a strong **23.59% sales growth**.
+
 <img width="1614" height="123" alt="Screenshot 2025-10-30 132448" src="https://github.com/user-attachments/assets/cfd8d312-d766-475c-aa65-1d4bc3c6b723" />
 
 #### Finding 2: Product Dominance
 **SUVs** are the undisputed leader, accounting for **26.91% ($100M)** of all sales. The "Big 3" segments (SUVs, Hatchbacks, & Sedans) make up nearly 70% of the entire business.
+
 <img width="601" height="365" alt="Screenshot 2025-10-30 132818" src="https://github.com/user-attachments/assets/e51be01e-679b-42f7-bc49-51394a6b3452" />
 
 #### Finding 3: Top Sales Region
